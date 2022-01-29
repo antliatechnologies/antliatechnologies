@@ -1,4 +1,4 @@
-- 👋 Hi, This is @antliatechnologies on GitHub, Owned by Isaac Simiyu W.
+- 👋 Hi, This is @antliatechnologies on GitHub, Founded and Owned by Isaac Simiyu W.
 - 👀 I’m interested in Website Design and Development, Android and Windows Software Design and Development
 - 🌱 I’m good at PHP, CSS, CSS3, MySQL, HTML, HTML5, JavaScript, Java. I am still learning Python and I am becoming better at it.
 - 📫 You can reach @antliatechnologies through:
